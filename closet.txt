@@ -1,0 +1,7 @@
+T-Shirt|t|Red|3|1|7|false
+Jeans|b|Blue|5|2|5|false
+Sneakers|s|White|4|1|6|true
+Hat|h|Black|2|1|9|false
+Suit Jacket|c|Gray|8|5|3|false
+Overcoat|o|Black|9|4|2|true
+LL Bean Parka|c|Black|9|3|3|true
